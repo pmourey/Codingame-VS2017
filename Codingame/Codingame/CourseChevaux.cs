@@ -29,7 +29,7 @@ class Retour
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  **/
-class Solution
+class CourseChevaux
 {
     // Méthode naïve de recherche de la plus petite distance
     // entre deux points d'un nuage de points

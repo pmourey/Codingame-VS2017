@@ -11,7 +11,7 @@ using System.Collections.Generic;
  * ---
  * Hint: You can use the debug stream to print initialTX and initialTY, if Thor seems not follow your orders.
  **/
-class Player
+class PowerThorLvl1
 {
     static void Main(string[] args)
     {
