@@ -40,6 +40,7 @@ class Temperatures
             // To debug: Console.Error.WriteLine("Debug messages...");
 
             Console.WriteLine(minT);
+            Console.ReadLine();
         }
         catch (Exception e)
         {

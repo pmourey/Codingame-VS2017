@@ -75,5 +75,7 @@ class CourseChevaux
         Retour retour = ShortestDistanceNaive(liste_pi);
 
         Console.WriteLine(retour.getDistance);
+        Console.ReadLine();
+
     }
 }
